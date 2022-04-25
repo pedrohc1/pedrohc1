@@ -1,5 +1,7 @@
 ### Ola! Eu sou o Pedro Henrique, Estudante de Front End👋
 
+Atualmente estudando React Native e buscando uma vaga de estagio ou junior na area mobile
+
   <a href="https://github.com/pedrohc1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohc1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohc1&layout=compact&langs_count=7&theme=dracula"/>
