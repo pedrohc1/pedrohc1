@@ -1,6 +1,6 @@
-### Ola! Eu sou o Pedro Henrique, Estudante de Front End👋
+### Ola! Eu sou o Pedro Henrique, Desenvolvedor Fullstack 👋
 
-Atualmente estudando Flutter/React Native e buscando uma vaga de estagio ou junior.
+Atualmente estou trabalhando no Instituto Nacional de Tecnologia da Informação-ITI.
 
   <a href="https://github.com/pedrohc1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohc1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
